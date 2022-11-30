@@ -4,7 +4,7 @@
 
 Tinggal copas link di bawah
 
-https://raw.githubusercontent.com/ProjectRedis/PS2-Covers/main/Covers/${serial}.png
+> https://raw.githubusercontent.com/ProjectRedis/PS2-Covers/main/Covers/${serial}.png
 
 ## *Update - v4.8 | 1-12-2022
 - Sengoku Basara X
