@@ -6,8 +6,14 @@ Tinggal copas link di bawah
 
 > https://raw.githubusercontent.com/ProjectRedis/PS2-Covers/main/Covers/${serial}.png
 
-## *Update - v4.8 | 1-12-2022
-- Sengoku Basara X
-- Sengoku Basara 2 Heroes
-- Sengoku Basara 2
-- Sengoku Basara
+## Request Cover?
+- PM saya di Telegram @hvnosecre
+- Inbox saya di FB
+- Atau langsung di Issues GitHub
+
+## Thanks to
+- Allah
+- Tahlreth (Developer AetherSX2)
+- @AetherSX2ID (Telegram Group)
+- AetherSX2 Indonesia Official (FB Group)
+- Dan masih banyak yang tidak bisa saya sebutkan satu-persatu.
