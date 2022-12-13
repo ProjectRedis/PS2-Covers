@@ -1,6 +1,6 @@
 # DVD Cover PS2 Games
 
-## Support PCSX2 & AetheSX2
+## Support PCSX2 & AetherSX2
 
 Tinggal copas link di bawah
 
