@@ -3,9 +3,9 @@
 ## Support PCSX2 & AetherSX2
 
 Tinggal copas link di bawah
-'''
-> https://raw.githubusercontent.com/ProjectRedis/PS2-Covers/main/Covers/${serial}.png
-'''
+```
+https://raw.githubusercontent.com/ProjectRedis/PS2-Covers/main/Covers/${serial}.png
+```
 ## Request Cover?
 - PM saya di Telegram @hvnosecret
 - Inbox saya di FB
